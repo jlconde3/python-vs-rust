@@ -1,0 +1,10 @@
+# Folders
+.venv
+rust-app/target
+
+
+# Files
+*.lock
+*.pyc
+*.json
+download_json.py
